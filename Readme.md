@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Multilinear Regression Models for a Bike Sharing company 
+> The project generates different machine learning models for a bike sharing company based on a variety of input data. The object is to identify the best set of independent variables that can help determine the number of bike riders which is our target variable. 
 
 
 ## Table of Contents
